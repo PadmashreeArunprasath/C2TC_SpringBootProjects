@@ -51,7 +51,7 @@ public class Student {
         this.address = address;
     }
 
-    // ✅ Getters and Setters
+    // Getters and Setters
     public int getId() {
         return id;
     }
